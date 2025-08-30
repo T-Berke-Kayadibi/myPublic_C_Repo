@@ -1,0 +1,10 @@
+13:43:50 **** Incremental Build of configuration Debug for project ST7789Driver ****
+make -j9 all 
+arm-none-eabi-size  ST7789Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9500	     20	   1660	  11180	   2bac	ST7789Driver.elf
+Finished building: default.size.stdout
+ 
+
+13:43:50 Build Finished. 0 errors, 0 warnings. (took 105ms)
+

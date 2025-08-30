@@ -1,0 +1,9 @@
+# Introduction
+this document is created to help you understand the basics of C programming with all the keyword that are available to be used in the program.
+
+
+32 specific keywords are reserved to the C language that are given below:
+
+auto break case char const continue default do double else enum extern 
+float for goto if int long register return short signed sizeof static 
+struct switch typedef union unsigned void volatile while
